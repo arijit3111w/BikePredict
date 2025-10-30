@@ -1,0 +1,9 @@
+# Ignore all pickle model files
+*.pkl
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Ignore other large or temporary files
+*.h5
+*.csv
+# Uncomment below to ignore input data if needed
+# input/
